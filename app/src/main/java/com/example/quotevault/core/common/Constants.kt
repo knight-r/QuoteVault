@@ -3,8 +3,8 @@ package com.example.quotevault.core.common
 object Constants {
     // Supabase Configuration
     // TODO: Replace with your Supabase project URL and anon key
-    const val SUPABASE_URL = "https://mjysdkjfeneemvksksoy.supabase.co"
-    const val SUPABASE_ANON_KEY = "sb_publishable_-gjiQAxcsyEIfhmtTqdZNw_0rdFjQzE"
+    const val SUPABASE_URL = "YOUR_SUPABASE_URL"
+    const val SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY"
 
     // Table Names
     object Tables {
